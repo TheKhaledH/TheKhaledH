@@ -19,3 +19,4 @@ Skills: Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKhaledH&show_icons=true)  
 
+>وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلالِ وَالإِكْرَامِ
